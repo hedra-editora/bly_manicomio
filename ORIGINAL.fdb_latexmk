@@ -1,0 +1,13 @@
+# Fdb version 3
+["pdflatex"] 1501525017 "ORIGINAL.tex" "ORIGINAL.pdf" "ORIGINAL" 1501525026
+  "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1479649810 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1479649815 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1479649815 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/share/texmf-dist/tex/latex/base/omscmr.fd" 1479649819 2256 80ce1168fb4ce6a85583a9cf8972c013 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1479649825 31669 df537245012f3e5f05bdc55644b7a3df ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1492624672 3899101 a8a5857843c30922e5e4c9b7d7cc5f25 ""
+  "ORIGINAL.aux" 1501524812 6192 b726558c587851b5fb41be0995059adb ""
+  "ORIGINAL.tex" 1501524993 165668 614c648510761a978329328b8bea5272 ""
+  (generated)
+  "ORIGINAL.pdf"
+  "ORIGINAL.log"

@@ -1,0 +1,26 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {part}{Dez Dias em um Manicômio}{7}
+\contentsline {chapter}{Introdução}{9}
+\contentsline {chapter}{Uma missão delicada}{11}
+\contentsline {chapter}{Preparação para a provação}{17}
+\contentsline {chapter}{No lar temporário}{20}
+\contentsline {chapter}{O juiz duffy e a polícia}{35}
+\contentsline {chapter}{Declarada insana}{47}
+\contentsline {chapter}{No hospital de bellevue}{52}
+\contentsline {chapter}{O objetivo em vista}{65}
+\contentsline {chapter}{Dentro do manicômio}{74}
+\contentsline {chapter}{Um especialista(?) trabalhando}{83}
+\contentsline {chapter}{Meu primeiro jantar}{88}
+\contentsline {chapter}{No banho}{92}
+\contentsline {chapter}{Passeando com as lunáticas}{106}
+\contentsline {chapter}{Sufocando e espancando pacientes}{116}
+\contentsline {chapter}{Algumas histórias infelizes}{122}
+\contentsline {chapter}{Incidentes da vida no hospício}{133}
+\contentsline {chapter}{O último adeus}{137}
+\contentsline {chapter}{A investigação do júri}{143}
+\contentsfinish 
+\contentsline {section}{coleção de bolso hedra}{148}
+\contentsline {section}{<<série largepost>>}{151}
+\contentsline {section}{<<série sexo>>}{151}
+\contentsline {section}{coleção <<que horas são?>>}{151}
